@@ -1,0 +1,21 @@
+.main{
+    list-style-type: upper-roman;
+}
+.letter{
+    list-style-type: lower-alpha;
+}
+.winter{
+    list-style-image: url(https://img.icons8.com/material-outlined/1x/winter.png);
+}
+.spring{
+    list-style-image: url(https://img.icons8.com/ios-glyphs/1x/spring.png);
+}
+.summer{
+    list-style-image: url(https://img.icons8.com/material-outlined/1x/summer.png)
+}
+.autumn{
+    list-style-image: url(https://img.icons8.com/ios-glyphs/1x/maple-leaf.png) 
+}
+.seasons{
+    list-style-image: url(http://s1.iconbird.com/ico/0912/fugue/w24h241349011728arrowcurve.png);
+}
